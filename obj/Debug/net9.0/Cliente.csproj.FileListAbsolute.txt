@@ -1,0 +1,5 @@
+C:\Users\davic\OneDrive\Desktop\tav\Cliente\obj\Debug\net9.0\Cliente.csproj.AssemblyReference.cache
+C:\Users\davic\OneDrive\Desktop\tav\Cliente\obj\Debug\net9.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davic\OneDrive\Desktop\tav\Cliente\obj\Debug\net9.0\Cliente.AssemblyInfoInputs.cache
+C:\Users\davic\OneDrive\Desktop\tav\Cliente\obj\Debug\net9.0\Cliente.AssemblyInfo.cs
+C:\Users\davic\OneDrive\Desktop\tav\Cliente\obj\Debug\net9.0\Cliente.csproj.CoreCompileInputs.cache
